@@ -55,11 +55,11 @@
     "@angular/platform-browser": ">=4.0.0"
   },
   "devDependencies": {
-    "@angular/common": "4.4.7",
-    "@angular/compiler": "4.4.7",
-    "@angular/compiler-cli": "4.4.7",
-    "@angular/platform-browser": "4.4.7",
-    "@angular/core": "4.4.7",
+    "@angular/common": "8.2.14",
+    "@angular/compiler": "8.2.14",
+    "@angular/compiler-cli": "8.2.14",
+    "@angular/platform-browser": "8.2.14",
+    "@angular/core": "8.2.14",
     "clean-css": "4.2.1",
     "node-sass": "4.13.0",
     "rimraf": "3.0.0",
